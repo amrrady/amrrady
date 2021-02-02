@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**amrrady/amrrady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> I'm Amr Rady </h1>
 
-Here are some ideas to get you started:
+<h3 align="center">  Tech Enthusiast | Software Engineer </h3> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Full-Stack Web Development :computer: | Cloud :cloud: 
+-  **Learning :** Full-Stack / Software Design :zap: :fire:	
+-  **Pronouns :** He/Him/His :innocent:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+### 📊 Profile stats
+
+[![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=amrrady&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/amrrady/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⭐️ From [linkedin](https://www.linkedin.com/in/amrrady/)
