@@ -12,9 +12,8 @@
 -  **Pronouns :** He/Him/His
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
 
-### 📊 Profile stats
+### ✨ 📊 Profile stats
 
 ![AmrRady's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrrady&show_icons=true&theme=chartreuse-dark)
 
