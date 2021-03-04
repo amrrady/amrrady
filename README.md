@@ -19,5 +19,5 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### [linkedin](https://www.linkedin.com/in/amrrady/)
-### [Medium](http://amrrady.de/)
+### [My Linkedin](https://www.linkedin.com/in/amrrady/)
+### [My Medium](http://amrrady.de/)
